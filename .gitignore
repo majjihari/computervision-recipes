@@ -83,7 +83,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -143,3 +142,5 @@ classification/.DS_Store
 .DS_Store
 
 *.h5
+config.bat
+node_modules
